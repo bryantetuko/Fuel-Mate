@@ -2,7 +2,7 @@
 
 A mobile UI/UX prototype designed to help users estimate fuel costs, understand fuel consumption, and plan refueling during a trip.
 
-[![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)]([https://www.figma.com/design/d0WK2Cz18eQnyeN6N8BgRU/AoL-Software-Engineering?node-id=629-11229&t=hhbW0i3qc5zABoNi-1](https://www.figma.com/design/8CNOYtNXacHLwnLo9jYeRf/FuelMate?node-id=0-1&t=Cxujz7n0oMpeXYaX-1))
+[![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/8CNOYtNXacHLwnLo9jYeRf/FuelMate?node-id=0-1&t=DZMJivlE4Zl8hoqF-1)
 
 ---
 
